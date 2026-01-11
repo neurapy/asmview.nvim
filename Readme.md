@@ -7,8 +7,11 @@ I hope this is exactly what you are looking for. :)
 for your current project and keeps it synchronized with the
 source line under the cursor. Right now it works with C/C++/ASM Code.
 
----
-Image
+## Showcase
+
+![AsmView demo 1](assets/1.gif)
+![AsmView demo 2](assets/2.gif)
+![AsmView demo 3](assets/3.gif)
 
 ## Features
 

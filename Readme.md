@@ -6,7 +6,8 @@ I hope this is exactly what you are looking for. :)
 `asmview.nvim` is a tiny nvim plugin that opens a live “assembly view”
 for your current project and keeps it synchronized with the
 source line under the cursor. Right now it works with C/C++/ASM Code.
-(If you like this - feel free to add stuff)
+
+If you like this - feel free to add stuff.
 
 ## Showcase
 
@@ -23,7 +24,7 @@ current source line
 - **Auto sync** (optional): highlight follows your cursor as you move through
 the code
 - Works with **C/C++/ObjC** and **assembly sources** like `.S` / `.s`
-- Works with everything else too as long as debug line info is present in the
+- Works with everything else too as long as debug line :info is present in the
 ELF and the file type is added to the source code. If anyone ever finds this, feel
 free to add more.
 

@@ -6,6 +6,7 @@ I hope this is exactly what you are looking for. :)
 `asmview.nvim` is a tiny nvim plugin that opens a live “assembly view”
 for your current project and keeps it synchronized with the
 source line under the cursor. Right now it works with C/C++/ASM Code.
+(If you like this - feel free to add stuff)
 
 ## Showcase
 
@@ -52,7 +53,7 @@ provided and displays it next to your code
 `../nvim/lua/plugins/asmview.lua`
 
 ```lua
-{
+return {
   "neurapy/asmview.nvim",
   cmd = { "AsmViewToggle", "AsmViewOpen", "AsmViewRebuild" },
   -- keymaps:
